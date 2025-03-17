@@ -19,6 +19,15 @@ a {
   text-decoration: none;
   font-family: sans-serif;
 }
+.ariele {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 20px;
+  line-height: 2.5;
+  border:1cm;
+ 
+}
 .espaco{
   margin: 1.5cm;
 }
